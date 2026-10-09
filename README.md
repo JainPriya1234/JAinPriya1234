@@ -1,4 +1,4 @@
-<img width="480" height="274" alt="Woman Coding GIF by Pluralsight" src="https://github.com/user-attachments/assets/59d1528d-bc3e-49f8-b43c-c99a38f25172" />[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Priya Jain</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVicjAxdjdyejQ3N3hvNm8zYXYwb3ZrN2U2NzBjNXR1N2EwYXdnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/>
