@@ -4,11 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainpriya1234&label=Profile%20views&color=0e75b6&style=flat" alt="jainpriya1234" /> </p>
 
-- 🔭 I’m currently working on **sponsorship website**
+- 🔭 I’m currently working as Software Developer at **Accenture**
 
-- 🌱 I’m currently learning **Database**
-
-- 💬 Ask me about **Node.js , Express.js , MongoDB , javascript , c/c++**
+- 💬 Ask me about **Node.js, React.js, C++, .Net, SQL, Express.js , MongoDB , javascript , c/c++**
 
 - 📫 How to reach me **priya.jain11302@gmail.com**
 
